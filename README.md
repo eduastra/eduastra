@@ -1,6 +1,6 @@
 ### Hi there 👋
-- :snake: :squirrel:
+- :snake: 
 i love it python and R
-
+- :squirrel:
 <!--
 
